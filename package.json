@@ -1,5 +1,5 @@
 {
-  "name": "rn-international-phone-number",
+  "name": "@tkow/rn-international-phone-number",
   "author": "AstrOOnauta (https://github.com/AstrOOnauta)",
   "version": "0.12.0",
   "description": "International mobile phone input component with mask for React Native",
