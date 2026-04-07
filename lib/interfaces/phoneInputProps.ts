@@ -7,7 +7,7 @@ import {
   ICountrySelectLanguages,
   ICountrySelectStyle,
   ISectionTitle,
-} from 'rn-country-select';
+} from '@tkow/rn-country-select';
 
 import { ITheme } from './theme';
 import { IPhoneInputStyles } from './phoneInputStyles';
